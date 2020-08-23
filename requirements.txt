@@ -1,0 +1,4 @@
+xlrd == 1.1.0
+pandas
+selenium
+openpyxl
